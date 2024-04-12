@@ -4,7 +4,7 @@ const Card = () => {
             <img src="https://via.placeholder.com/150" alt="placeholder" />
             <div className="pl-4">
                 <h2>Card Title</h2>
-                <p>Card Description Here</p>
+                <p>Card Description Here and here too</p>
             </div>
        </div>  
     );
