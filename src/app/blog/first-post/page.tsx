@@ -5,6 +5,7 @@ export default function FirstPost() {
         <div className="description">
             <p className="font-montserrat">This is my first blog post.</p>
             <p className="font-montserrat">Here you will find articles about programming and technology.</p>
+            <p className="font-montserrat">I am so excited!</p>
         </div>
         </header>
     );
